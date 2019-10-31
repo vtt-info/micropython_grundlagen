@@ -1,0 +1,4 @@
+# exclude Mac-Files and builds
+
+build/
+
